@@ -1,0 +1,1 @@
+# This is a script to connect to remote host
